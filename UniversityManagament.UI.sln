@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityManagament.UI", "UniversityManagament.UI\UniversityManagament.UI.csproj", "{737006F9-F303-4EB1-8D2F-5D4D2510E0C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityManagement.Cor", "UniversityManagement.Cor\UniversityManagement.Cor.csproj", "{B00912AB-301C-4102-A752-878E5C4E3BF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{737006F9-F303-4EB1-8D2F-5D4D2510E0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737006F9-F303-4EB1-8D2F-5D4D2510E0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737006F9-F303-4EB1-8D2F-5D4D2510E0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737006F9-F303-4EB1-8D2F-5D4D2510E0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00912AB-301C-4102-A752-878E5C4E3BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00912AB-301C-4102-A752-878E5C4E3BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00912AB-301C-4102-A752-878E5C4E3BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00912AB-301C-4102-A752-878E5C4E3BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {851D49C0-CD1E-48C3-80A2-72E2A66B4BA5}
+	EndGlobalSection
+EndGlobal
